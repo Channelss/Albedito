@@ -1,0 +1,2 @@
+# Albedito
+Genshin Impact Theme
